@@ -8,5 +8,3 @@ Automated Testing with Mocha, Chai, and Sinon
 * [Sinon](http://sinonjs.org/) - Library used to spy over functions, emulate built-in functions and more.
 
 These libraries are suitable for both in-browser and server-side testing.
-
-Browser Variant: The full HTML page with these frameworks and pow spec:
